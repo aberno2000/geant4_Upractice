@@ -1,0 +1,4 @@
+/home/aldo/softwere/geant4/practice/lab2/build/CMakeFiles/sim.dir
+/home/aldo/softwere/geant4/practice/lab2/build/CMakeFiles/Simulation.dir
+/home/aldo/softwere/geant4/practice/lab2/build/CMakeFiles/edit_cache.dir
+/home/aldo/softwere/geant4/practice/lab2/build/CMakeFiles/rebuild_cache.dir
